@@ -6,7 +6,7 @@ Checklist is a simple app that allows you to add tasks to a list and check them 
 
 ## File Structure
 
-Components are stored in src/components
+Components are stored in src/components/common
 
 ## Usage
 
